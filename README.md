@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabi
 - 👀 I’m interested in OOP (Java, C#, C++, Python) and T-SQL
-- 🌙 I've also worked with CLisp, Prolog, assembly and C
+- 🌙 I've also worked with C, Unix, CLisp, Prolog, assembly and C
 - 🌱 I’m currently learning UNIX
 
 <!---
