@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabi
-- 👀 I’m interested in OOP, currently working with Ruby on Rails
+- 👀 Currently working with Ruby on Rails
 <!--- 🌙 I've also worked with C, Unix, CLisp, Prolog, assembly and C-->
 <!--- 🌱 I’m currently learning UNIX-->
 
